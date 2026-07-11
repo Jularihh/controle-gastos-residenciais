@@ -66,3 +66,4 @@ C:\Users\Pichau\OneDrive\Área de Trabalho\controle-gastos-residenciais\Backend\
 C:\Users\Pichau\OneDrive\Área de Trabalho\controle-gastos-residenciais\Backend\ControleGastosAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Pichau\OneDrive\Área de Trabalho\controle-gastos-residenciais\Backend\ControleGastosAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Pichau\OneDrive\Área de Trabalho\controle-gastos-residenciais\Backend\ControleGastosAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\controle-gastos-residenciais\Backend\ControleGastosAPI\obj\Debug\net10.0\ControleGastosAPI.sourcelink.json
